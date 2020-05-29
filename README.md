@@ -9,7 +9,7 @@ Basado en: [https://www.adictosaltrabajo.com/2012/07/30/spring-mvc-api-rest-oaut
 - Java 1.8
 - Maven 3.5
 - Tomcat 7
-- base de datos MySQL
+- MySQL
 
 #### Compilación
 
